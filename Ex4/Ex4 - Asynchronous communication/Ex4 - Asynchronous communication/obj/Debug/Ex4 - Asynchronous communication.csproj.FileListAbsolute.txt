@@ -1,0 +1,9 @@
+C:\Users\duclt\OneDrive\Documents\C-Sharp\VGU\Ex4 - Asynchronous communication\Ex4 - Asynchronous communication\obj\Debug\Ex4 - Asynchronous communication.csprojResolveAssemblyReference.cache
+C:\Users\duclt\OneDrive\Documents\C-Sharp\VGU\Ex4 - Asynchronous communication\Ex4 - Asynchronous communication\obj\Debug\Ex4___Asynchronous_communication.Form1.resources
+C:\Users\duclt\OneDrive\Documents\C-Sharp\VGU\Ex4 - Asynchronous communication\Ex4 - Asynchronous communication\obj\Debug\Ex4___Asynchronous_communication.Properties.Resources.resources
+C:\Users\duclt\OneDrive\Documents\C-Sharp\VGU\Ex4 - Asynchronous communication\Ex4 - Asynchronous communication\obj\Debug\Ex4 - Asynchronous communication.csproj.GenerateResource.Cache
+C:\Users\duclt\OneDrive\Documents\C-Sharp\VGU\Ex4 - Asynchronous communication\Ex4 - Asynchronous communication\bin\Debug\Ex4 - Asynchronous communication.exe.config
+C:\Users\duclt\OneDrive\Documents\C-Sharp\VGU\Ex4 - Asynchronous communication\Ex4 - Asynchronous communication\bin\Debug\Ex4 - Asynchronous communication.exe
+C:\Users\duclt\OneDrive\Documents\C-Sharp\VGU\Ex4 - Asynchronous communication\Ex4 - Asynchronous communication\bin\Debug\Ex4 - Asynchronous communication.pdb
+C:\Users\duclt\OneDrive\Documents\C-Sharp\VGU\Ex4 - Asynchronous communication\Ex4 - Asynchronous communication\obj\Debug\Ex4 - Asynchronous communication.exe
+C:\Users\duclt\OneDrive\Documents\C-Sharp\VGU\Ex4 - Asynchronous communication\Ex4 - Asynchronous communication\obj\Debug\Ex4 - Asynchronous communication.pdb

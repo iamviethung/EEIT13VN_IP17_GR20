@@ -1,0 +1,12 @@
+C:\Users\SoN-TunG\OneDrive\Visual Studio 2015\ArticleApp\ArticleApp\obj\Debug\ArticleApp.csprojResolveAssemblyReference.cache
+C:\Users\SoN-TunG\OneDrive\Visual Studio 2015\ArticleApp\ArticleApp\bin\ArticleApp.dll.config
+C:\Users\SoN-TunG\OneDrive\Visual Studio 2015\ArticleApp\ArticleApp\bin\ArticleApp.dll
+C:\Users\SoN-TunG\OneDrive\Visual Studio 2015\ArticleApp\ArticleApp\bin\ArticleApp.pdb
+C:\Users\SoN-TunG\OneDrive\Visual Studio 2015\ArticleApp\ArticleApp\obj\Debug\ArticleApp.dll
+C:\Users\SoN-TunG\OneDrive\Visual Studio 2015\ArticleApp\ArticleApp\obj\Debug\ArticleApp.pdb
+C:\Users\VietHung\Desktop\Bai 2-3\ArticleApp\ArticleApp\bin\ArticleApp.dll.config
+C:\Users\VietHung\Desktop\Bai 2-3\ArticleApp\ArticleApp\bin\ArticleApp.dll
+C:\Users\VietHung\Desktop\Bai 2-3\ArticleApp\ArticleApp\bin\ArticleApp.pdb
+C:\Users\VietHung\Desktop\Bai 2-3\ArticleApp\ArticleApp\obj\Debug\ArticleApp.csprojResolveAssemblyReference.cache
+C:\Users\VietHung\Desktop\Bai 2-3\ArticleApp\ArticleApp\obj\Debug\ArticleApp.dll
+C:\Users\VietHung\Desktop\Bai 2-3\ArticleApp\ArticleApp\obj\Debug\ArticleApp.pdb

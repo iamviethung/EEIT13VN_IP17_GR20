@@ -1,0 +1,75 @@
+﻿<Page
+    x:Class="CurrencyConverter.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CurrencyConverter"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid Width="300"
+              Height="Auto"
+              HorizontalAlignment="Center"
+              VerticalAlignment="Center">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Row="1">
+                <ComboBox x:Name="CbxCurrencyFrom"
+                          Margin="0,5,0,5"
+                          HorizontalAlignment="Stretch"
+                          VerticalAlignment="Stretch"
+                          Header="From"
+                          ItemsSource="{Binding CurrencyList}"
+                          SelectedIndex="{Binding SelectedCurrencyFrom,
+                                                  Mode=TwoWay,
+                                                  UpdateSourceTrigger=PropertyChanged}"
+                          SelectionChanged="{x:Bind ChangeCurrency}">
+                </ComboBox>
+                <ComboBox x:Name="CbxCurrencyTo"
+                          Margin="0,5,0,5"
+                          HorizontalAlignment="Left"
+                          VerticalAlignment="Stretch"
+                          Header="To"
+                          ItemsSource="{Binding CurrencyList}"
+                          SelectedIndex="{Binding SelectedCurrencyTo,
+                                                  Mode=TwoWay,
+                                                  UpdateSourceTrigger=PropertyChanged}"
+                          SelectionChanged="{x:Bind ChangeCurrency}"
+                          Width="300">
+                </ComboBox>
+                <TextBox x:Name="TbxCurrencyAmount"
+                         Margin="0,5"
+                         HorizontalAlignment="Stretch"
+                         VerticalAlignment="Top"
+                         Header="Enter cash amount"
+                         TextWrapping="NoWrap"/>
+                    <TextBox x:Name="TbxTextLog"
+                             Margin="0,5"
+                             HorizontalAlignment="Stretch"
+                             ScrollViewer.VerticalScrollBarVisibility="Auto"
+                             VerticalAlignment="Top"
+                             Height="150"
+                             Header="Log"
+                             Text="{Binding LogText,
+                                            Mode=TwoWay,
+                                            UpdateSourceTrigger=PropertyChanged}"
+                             AcceptsReturn="True"
+                             TextWrapping="Wrap"/>
+                <Grid>
+                    <Button x:Uid="CurrencyExchangeButton"
+                            Grid.Column="1"
+                            Margin="4,8,0,0"
+                            HorizontalAlignment="Stretch"
+                            VerticalAlignment="Stretch"
+                            Background="DarkGreen"
+                            Click="{x:Bind CurrencyExchange}"
+                            Content="Login-" />
+                </Grid>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>

@@ -1,0 +1,30 @@
+C:\Users\SoN-TunG\OneDrive\Visual Studio 2015\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\bin\Debug\DatabaseWarehouse-Ex2.exe.config
+C:\Users\SoN-TunG\OneDrive\Visual Studio 2015\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\bin\Debug\DatabaseWarehouse-Ex2.exe
+C:\Users\SoN-TunG\OneDrive\Visual Studio 2015\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\bin\Debug\DatabaseWarehouse-Ex2.pdb
+C:\Users\SoN-TunG\OneDrive\Visual Studio 2015\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\obj\Debug\DatabaseWarehouse-Ex2.csprojResolveAssemblyReference.cache
+C:\Users\SoN-TunG\OneDrive\Visual Studio 2015\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\obj\Debug\DatabaseWarehouse_Ex2.Form1.resources
+C:\Users\SoN-TunG\OneDrive\Visual Studio 2015\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\obj\Debug\DatabaseWarehouse_Ex2.Properties.Resources.resources
+C:\Users\SoN-TunG\OneDrive\Visual Studio 2015\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\obj\Debug\DatabaseWarehouse-Ex2.csproj.GenerateResource.Cache
+C:\Users\SoN-TunG\OneDrive\Visual Studio 2015\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\obj\Debug\DatabaseWarehouse-Ex2.exe
+C:\Users\SoN-TunG\OneDrive\Visual Studio 2015\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\obj\Debug\DatabaseWarehouse-Ex2.pdb
+C:\Users\SoN-TunG\OneDrive\Visual Studio 2015\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\obj\Debug\DatabaseWarehouse_Ex2.Form2.resources
+C:\Users\VietHung\Desktop\Bai 2-3\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\bin\Debug\DatabaseWarehouse-Ex2.exe.config
+C:\Users\VietHung\Desktop\Bai 2-3\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\bin\Debug\DatabaseWarehouse-Ex2.exe
+C:\Users\VietHung\Desktop\Bai 2-3\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\bin\Debug\DatabaseWarehouse-Ex2.pdb
+C:\Users\VietHung\Desktop\Bai 2-3\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\obj\Debug\DatabaseWarehouse-Ex2.csprojResolveAssemblyReference.cache
+C:\Users\VietHung\Desktop\Bai 2-3\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\obj\Debug\DatabaseWarehouse_Ex2.Form1.resources
+C:\Users\VietHung\Desktop\Bai 2-3\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\obj\Debug\DatabaseWarehouse_Ex2.Form2.resources
+C:\Users\VietHung\Desktop\Bai 2-3\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\obj\Debug\DatabaseWarehouse_Ex2.Properties.Resources.resources
+C:\Users\VietHung\Desktop\Bai 2-3\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\obj\Debug\DatabaseWarehouse-Ex2.csproj.GenerateResource.Cache
+C:\Users\VietHung\Desktop\Bai 2-3\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\obj\Debug\DatabaseWarehouse-Ex2.exe
+C:\Users\VietHung\Desktop\Bai 2-3\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\obj\Debug\DatabaseWarehouse-Ex2.pdb
+C:\Users\VietHung\Desktop\Ex 2 -3\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\bin\Debug\DatabaseWarehouse-Ex2.exe.config
+C:\Users\VietHung\Desktop\Ex 2 -3\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\bin\Debug\DatabaseWarehouse-Ex2.exe
+C:\Users\VietHung\Desktop\Ex 2 -3\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\bin\Debug\DatabaseWarehouse-Ex2.pdb
+C:\Users\VietHung\Desktop\Ex 2 -3\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\obj\Debug\DatabaseWarehouse-Ex2.csprojResolveAssemblyReference.cache
+C:\Users\VietHung\Desktop\Ex 2 -3\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\obj\Debug\DatabaseWarehouse_Ex2.Form1.resources
+C:\Users\VietHung\Desktop\Ex 2 -3\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\obj\Debug\DatabaseWarehouse_Ex2.Form2.resources
+C:\Users\VietHung\Desktop\Ex 2 -3\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\obj\Debug\DatabaseWarehouse_Ex2.Properties.Resources.resources
+C:\Users\VietHung\Desktop\Ex 2 -3\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\obj\Debug\DatabaseWarehouse-Ex2.csproj.GenerateResource.Cache
+C:\Users\VietHung\Desktop\Ex 2 -3\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\obj\Debug\DatabaseWarehouse-Ex2.exe
+C:\Users\VietHung\Desktop\Ex 2 -3\DatabaseWarehouse-Ex2\DatabaseWarehouse-Ex2\obj\Debug\DatabaseWarehouse-Ex2.pdb

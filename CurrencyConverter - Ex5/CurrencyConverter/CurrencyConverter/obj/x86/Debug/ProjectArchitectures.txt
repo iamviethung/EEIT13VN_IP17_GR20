@@ -1,0 +1,1 @@
+C:\Users\VietHung\Downloads\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter.csproj;x86
